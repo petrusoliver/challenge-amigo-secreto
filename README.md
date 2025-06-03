@@ -6,13 +6,13 @@ Acabei de finalizar o desenvolvimento do meu projeto como parte do desafio do cu
 
 ## 🚀 Funcionalidades do Projeto
 
-✅ Adicionar participantes à lista de sorteio
-🎉 Garantir que ninguém tire o próprio nome
-👥 Interface para revelar os pares de forma individual
-✏️ Permitir edição e remoção de participantes
-🔒 Opção de esconder/mostrar o nome do amigo sorteado
-🎊 Animação de confetes ao revelar cada par
-📱 Design responsivo para desktop e dispositivos móveis
+✅ Adicionar participantes à lista de sorteio  
+🎉 Garantir que ninguém tire o próprio nome  
+👥 Interface para revelar os pares de forma individual  
+✏️ Permitir edição e remoção de participantes  
+🔒 Opção de esconder/mostrar o nome do amigo sorteado  
+🎊 Animação de confetes ao revelar cada par  
+📱 Design responsivo para desktop e dispositivos móveis  
 
 ## 🛠️ Tecnologias Utilizadas
 
