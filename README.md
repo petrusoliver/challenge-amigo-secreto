@@ -1,18 +1,23 @@
-<h1> Challenge Amigo Secreto</h1>
+Challenge: Amigo Secreto 🎲
 
-<h2>Sobre o Challenge</h2>
-<p>Proejto utilizado na fase 2 do processo de seleção dos alunos do Programa ONE - Oracle Next Education. O desafio consiste em desenvolver uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida realizar um sorteio aleatório e determinar quem é o "amigo secreto".</p> 
+Acabei de finalizar o desenvolvimento do meu projeto como parte do desafio do curso Oracle Next Education (ONE), uma parceria incrível entre a Oracle e a Alura! 
 
-<h2>Funcionalidades do projeto:</h2>
-<p>Adicionar nomes: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".</p>
+🎯 O desafio? Criar um sorteador de amigos, e posso dizer que foi uma jornada cheia de aprendizados! Cada linha de código me ensinou algo novo e me desafiou a sair da minha zona de conforto. Estou muito feliz com o resultado final e empolgado para compartilhar com vocês. Agora é hora de celebrar esse marco e seguir evoluindo! 🎉💻
 
-<p>Validar entrada: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.</p>
+🚀 Funcionalidades do Projeto
 
-<p>Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.</p>
+✅ Adicionar participantes à lista de sorteio
+🎉 Garantir que ninguém tire o próprio nome
+👥 Interface para revelar os pares de forma individual
+✏️ Permitir edição e remoção de participantes
+🔒 Opção de esconder/mostrar o nome do amigo sorteado
+🎊 Animação de confetes ao revelar cada par
+📱 Design responsivo para desktop e dispositivos móveis
 
-<p>Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.</p>
+🛠️ Tecnologias Utilizadas
 
-<h2>Tecnologias utilizadas:</h2>
-<div>
-  <img  src="https://cdn-jghdn.nitrocdn.com/WaAKrPwVavvRtmiuchNkiowpZvENVGmM/assets/images/optimized/rev-ae4f639/www.homehost.com.br/blog/wp-content/uploads/2019/07/htmlcssjs.jpg">
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
